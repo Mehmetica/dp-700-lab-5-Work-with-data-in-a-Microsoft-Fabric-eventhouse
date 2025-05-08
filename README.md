@@ -1,6 +1,10 @@
 # dp-700-lab-5-Work-with-data-in-a-Microsoft-Fabric-eventhouse
 
-📄 README (English Summary)
+
+https://github.com/user-attachments/assets/f5ce3b06-898b-48e0-8459-6c76e285dad7
+
+
+
 🧭 Lab Title: Work with data in a Microsoft Fabric eventhouse
 🎯 Goal:
 Learn how to store and analyze real-time event data using Microsoft Fabric’s Eventhouse feature with KQL and Transact-SQL.
